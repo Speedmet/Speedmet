@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About Me
-I am a recent graduate with a degree in Data Science for Business from the Norwegian Business School in Oslo. My academic journey has equipped me with a robust foundation
+I am a recent graduate with a degree in Data Science for Business from BI Norwegian Business School in Oslo. My academic journey has equipped me with a robust foundation
 in data science, and I am passionate about harnessing the potential of machine learning and AI to drive innovation and create positive change in the business world.
 
 Mission
